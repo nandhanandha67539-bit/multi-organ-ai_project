@@ -1,6 +1,0 @@
-Model,Accuracy,Precision,Recall,F1-score
-Logistic Regression (13 feat),0.803,0.8,0.848,0.824
-SVM (13 feat),0.77,0.771,0.818,0.794
-Random Forest (13 feat),0.754,0.765,0.788,0.776
-Classical SVM (4 feat),0.803,0.8,0.848,0.824
-QSVM tuned (4 feat),0.82,0.867,0.788,0.825
