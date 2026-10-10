@@ -1,7 +1,0 @@
-Model,Accuracy,Balanced acc,Precision,Recall,F1-score
-Majority baseline,0.857,0.5,0.857,1.0,0.923
-Logistic Regression,0.893,0.938,1.0,0.875,0.933
-SVM,0.911,0.896,0.978,0.917,0.946
-Random Forest,0.911,0.792,0.939,0.958,0.948
-Classical SVM (4 feat),0.875,0.771,0.936,0.917,0.926
-QSVM tuned (4 feat),0.821,0.792,0.952,0.833,0.889
