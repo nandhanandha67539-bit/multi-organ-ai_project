@@ -1,0 +1,8 @@
+streamlit
+scikit-learn==1.6.1
+numpy==2.1.3
+pandas==2.2.3
+joblib
+qiskit==1.2.4
+qiskit-machine-learning==0.8.1
+qiskit-algorithms==0.3.1
